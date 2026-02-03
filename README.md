@@ -20,7 +20,7 @@ Startup Studio is a hands-on course that immerses you in the full cycle of techn
 
 ```
 ├── classes/
-│   ├── class_schedule.md          # Master schedule with all dates and topics
+│   ├── class_schedule.md          # Primary schedule with all dates and topics
 │   └── yyyymmdd_c[n]w[y]_topic/   # Individual class folders
 │       ├── slides_*.pdf           # Presentation slides
 │       ├── slides_*.html          # Interactive slides (open in browser)
@@ -47,6 +47,6 @@ Class folders follow the pattern: `yyyymmdd_c[n]w[y]_[day]_[topic]/`
 Each class includes slides in two formats:
 
 - **PDF** — for printing or offline viewing
-- **HTML** — interactive version with animations; open directly in your browser
+- **HTML** — interactive version with animations; download and open with your browser
 
 For the HTML slides, use arrow keys to navigate. Press `S` for speaker notes, `F` for fullscreen.
