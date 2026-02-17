@@ -5,8 +5,8 @@
 ---
 
 **Interviewer:** Shivangi  
-**Date:** 13 Feb 2026  
-**Interview #:** 1 of 3
+**Date:** 16 Feb 2026  
+**Interview #:** 3 of 3
 
 ---
 
@@ -14,8 +14,8 @@
 
 | | |
 |---|---|
-| **Name / Description** | Diya, 23-year-old Columbia Econ student, finance background, low interest in fashion |
-| **How you found them** |  Friend's friend |
+| **Name / Description** | Radhya, 22 year old Columbia grad student, struggles with decision fatigue |
+| **How you found them** | Friend from campus |
 
 ---
 
@@ -23,12 +23,12 @@
 
 | | |
 |---|---|
-| **Problem confirmed?** | Y (but differently framed) |
-| **Key quote** | “I just want to not look stupid. That’s it” |
-| **Emotional intensity** | 5 — calm but honest |
-| **Current solution** | Buys the same jeans/shirts repeatedly. Relies on friends/family to approve outfits |
-| **Money spent?** | Rarely spends too much money on clothes, ~$500/year, mostly replacing basics |
-| **Surprise** | Cares about efficiency more than style. Inventory tracking was more appealing than outfit creativity |
+| **Problem confirmed?** | Y |
+| **Key quote** | “I just don’t want to make another decision in the morning” |
+| **Emotional intensity** | 6 tired, slightly frustrated tone |
+| **Current solution** | Rotates between 5–6 “safe” outfits, wears mostly black/neutral basics to avoid thinking and sometimes texts friends if it’s a special event |
+| **Money spent?** | Rarely, buys basics 2–3 times a year and doesn’t shop for fun |
+| **Surprise** | Doesn’t want creativity, she wants optimization and fewer choices |
 
 ---
 
@@ -36,9 +36,9 @@
 
 | | |
 |---|---|
-| **Their reaction** | Interested in “minimal effort mode”, didn’t care about social voting feature |
-| **Key quote** | “If I could scan something once and it just tells me what matches forever, that’s great” |
-| **Biggest concern** | Doesn’t want something that feels like social media - “I don’t need another app to check” |
+| **Their reaction** | Interested if positioned as “decision minimizer” rather than “fashion assistant" |
+| **Key quote** | “If it just told me ‘Wear this’ and I could trust it, that would be amazing” |
+| **Biggest concern** | Doesn’t want to manually upload wardrobe, also doesn’t want daily notifications |
 
 ---
 
@@ -46,19 +46,23 @@
 
 | | |
 |---|---|
-| **Referral?** | Y, 1 roommate |
+| **Referral?** | N |
 | **Follow-up?** | Y |
-| **Pre-purchase?** | N - would test it out first for free |
+| **Pre-purchase?** | Only if it genuinely saves time and mental energy |
 
 ---
 
 ## Overall Signal
 
-🟡 **YELLOW** — Mixed signal. Problem exists but urgency is unclear, or they're politely positive. Need more data.
+**Circle one:**
+
+🟢 **GREEN** — Strong signal. They have this problem, it's painful, they're spending time/money on it. Move forward.
+
 
 ---
 
 ## One-Sentence Takeaway
 
-Low-interest users want automation and minimal interaction, instead of inspiration or social features.
+For high-cognitive-load students, the problem isn’t fashion — it’s reducing daily decision fatigue.
+
 _______________________________________________________________

@@ -4,9 +4,9 @@
 
 ---
 
-**Interviewer:** _______________
-**Date:** _______________
-**Interview #:** ___ of ___
+**Interviewer:** Shivangi  
+**Date:** 13 Feb 2026  
+**Interview #:** 2 of 3
 
 ---
 
@@ -14,8 +14,8 @@
 
 | | |
 |---|---|
-| **Name / Description** | e.g., "Junior CS major, active gym-goer" |
-| **How you found them** | e.g., campus, Reddit, referral from Interview #2 |
+| **Name / Description** | Diya, 23 year old Columbia Econ student, finance background, low interest in fashion |
+| **How you found them** |  Friend's friend |
 
 ---
 
@@ -23,12 +23,12 @@
 
 | | |
 |---|---|
-| **Problem confirmed?** | Did they describe the problem unprompted? (Y / N) |
-| **Key quote** | The single most revealing thing they said — use their exact words |
-| **Emotional intensity** | 1–10. What did you observe? (cursing, sighing, detailed rants = high) |
-| **Current solution** | What are they doing now to deal with this? |
-| **Money spent?** | Have they paid for anything related? How much? |
-| **Surprise** | What surprised you or contradicted your assumptions? |
+| **Problem confirmed?** | Y (but differently framed) |
+| **Key quote** | “I just want to not look stupid. That’s it” |
+| **Emotional intensity** | 5 — calm but honest |
+| **Current solution** | Buys the same jeans/shirts repeatedly. Relies on friends/family to approve outfits |
+| **Money spent?** | Rarely spends too much money on clothes, ~$500/year, mostly replacing basics |
+| **Surprise** | Cares about efficiency more than style. Inventory tracking was more appealing than outfit creativity |
 
 ---
 
@@ -36,9 +36,9 @@
 
 | | |
 |---|---|
-| **Their reaction** | What did they say/do when you described the solution? |
-| **Key quote** | Their most honest reaction — exact words |
-| **Biggest concern** | What worried them or made them hesitate? |
+| **Their reaction** | Interested in “minimal effort mode”, didn’t care about social voting feature |
+| **Key quote** | “If I could scan something once and it just tells me what matches forever, that’s great” |
+| **Biggest concern** | Doesn’t want something that feels like social media - “I don’t need another app to check” |
 
 ---
 
@@ -46,26 +46,19 @@
 
 | | |
 |---|---|
-| **Referral?** | Did they offer to connect you with others? (Y / N) Names: ___ |
-| **Follow-up?** | Would they do a follow-up conversation? (Y / N) |
-| **Pre-purchase?** | Would they pay now? (Y / N) |
+| **Referral?** | Y, 1 roommate |
+| **Follow-up?** | Y |
+| **Pre-purchase?** | N - would test it out first for free |
 
 ---
 
 ## Overall Signal
 
-**Circle one:**
-
-🟢 **GREEN** — Strong signal. They have this problem, it's painful, they're spending time/money on it. Move forward.
-
 🟡 **YELLOW** — Mixed signal. Problem exists but urgency is unclear, or they're politely positive. Need more data.
-
-🔴 **RED** — Weak signal. Shrugs, no energy, never tried to solve it. Consider pivoting or narrowing your audience.
 
 ---
 
 ## One-Sentence Takeaway
 
-_What's the single most important thing you learned from this interview?_
-
+Low-interest users want automation and minimal interaction, instead of inspiration or social features.
 _______________________________________________________________
