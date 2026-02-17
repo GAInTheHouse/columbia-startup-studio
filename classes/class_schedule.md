@@ -58,27 +58,29 @@ The course follows the canonical validation sequence: **Problem → Solution →
 - **MVP Presentations** before spring break (peer feedback)
 - *Spring Break*
 
-### ITERATE + SCALE (Weeks 9-10)
-> Second experiment cycle. Keep building.
+### ITERATE + SCALE (Weeks 9-11)
+> Second experiment cycle. Keep building. Extra week for depth.
 
 - Post-break check-in and experiment planning
 - Run experiment 3
+- Iteration sprint / experiment 4
 - Analytics deep dive
-- **Feature freeze** end of Week 10
+- **Feature freeze** end of Week 11
 
-### MEASURE + NARRATIVE (Week 11)
+### MEASURE + NARRATIVE (Week 12)
 > Product is frozen. Collect your results for Demo Day.
 
 - Final measurement round (usage data, quotes, metrics — product doesn't change)
 - Build pitch narrative from experiment results
 - **Checkpoint:** What's the story your data tells?
 
-### SHIP (Weeks 12-13)
+### SHIP (Weeks 13-15 + Finals)
 > Tell your story. Demo Day.
 
 - Build presentations and pitches
-- Practice and refine
-- **Demo Day: ~April 21** (date/venue TBD)
+- Pitch workshop with peer feedback
+- Practice rounds and dress rehearsal
+- **Demo Day: ~May 12** (Finals period, date/venue TBD)
 
 ---
 
@@ -104,13 +106,17 @@ The course follows the canonical validation sequence: **Problem → Solution →
 |        |     | **Mar 16-20** |        | **SPRING BREAK - NO CLASSES**               |           |                                                           |
 | **9**  | Tue | Mar 24        | c16w9  | Post-break check-in. Plan experiment 3                   | Iterate   | -                                                         |
 |        |     | ~~Mar 26~~    |        | ~~Academic Holiday - No Class~~                          |           |                                                           |
-| **10** | Tue | Mar 31        | c17w10 | Run experiment 3                                         | Scale     | *Google Analytics* intro                                  |
-| **10** | Thu | Apr 2         | c18w10 | Analyze results. **Feature freeze**                      | Scale     | -                                                         |
-| **11** | Tue | Apr 7         | c19w11 | Final measurement round (product frozen, collect pitch data) | Measure | -                                                         |
-| **11** | Thu | Apr 9         | c20w11 | Build pitch narrative from experiment results             | Narrative | -                                                         |
-| **12** | Tue | Apr 14        | c21w12 | Build presentations                                      | Ship      | *Duarte, Resonate* + *Sequoia Pitch Deck Outline*         |
-| **12** | Thu | Apr 16        | c22w12 | Pitch practice                                           | Ship      | -                                                         |
-| **13** | Tue | ~Apr 21       | c23w13 | **Demo Day** (date/venue TBD)                            | Ship      | -                                                         |
+| **10** | Tue | Mar 31        | c17w10 | Run experiment 3                                         | Iterate   | *Google Analytics* intro                                  |
+| **10** | Thu | Apr 2         | c18w10 | Analyze experiment 3, iterate                            | Iterate   | -                                                         |
+| **11** | Tue | Apr 7         | c19w11 | Iteration sprint / experiment 4                          | Scale     | -                                                         |
+| **11** | Thu | Apr 9         | c20w11 | Analyze results. **Feature freeze**                      | Scale     | -                                                         |
+| **12** | Tue | Apr 14        | c21w12 | Final measurement round (product frozen, collect pitch data) | Measure | -                                                         |
+| **12** | Thu | Apr 16        | c22w12 | Build pitch narrative from experiment results             | Narrative | *Duarte, Resonate* + *Sequoia Pitch Deck Outline*         |
+| **13** | Tue | Apr 21        | c23w13 | Build presentations                                      | Ship      | *Sequoia Pitch Deck Outline*                              |
+| **13** | Thu | Apr 23        | c24w13 | Pitch workshop (peer feedback round 1)                   | Ship      | -                                                         |
+| **14** | Tue | Apr 28        | c25w14 | Pitch practice (peer feedback round 2)                   | Ship      | -                                                         |
+| **14** | Thu | Apr 30        | c26w14 | Dress rehearsal + final prep                             | Ship      | -                                                         |
+| **Finals** | Tue | ~May 12  | c27    | **DEMO DAY** (Finals period, date/venue TBD)             | Ship      | -                                                         |
 
 ---
 
@@ -118,7 +124,9 @@ The course follows the canonical validation sequence: **Problem → Solution →
 
 - **Spring Break**: March 16-20, 2026 (no classes)
 - **Academic Holiday**: Thursday, March 26, 2026 (no class - Columbia academic holiday)
-- **Single-class weeks**: Week 1 (first week), Week 9 (post-spring break + holiday), Week 13 (final week)
+- **Last day of classes**: Monday, May 4, 2026 (per Columbia registrar)
+- **Finals period**: May 8-15, 2026 — Demo Day scheduled during this window
+- **Single-class weeks**: Week 1 (first week), Week 9 (post-spring break + holiday)
 
 ---
 
@@ -134,7 +142,8 @@ Teams run structured experiments throughout the course:
 | 7-8 | **Build** | Experiment 2 (team's choice) | Can we validate a second dimension? (pricing, channel, feature) |
 | 8 | **Build** | MVP Presentations | Is our solution coherent? (peer feedback) |
 | 9-10 | **Build** | Experiment 3 (team's choice) | Can we improve on earlier results with a more built product? |
-| 11 | **Measure** | Final Measurement | What story does our data tell? (product frozen, collect pitch data) |
+| 11 | **Scale** | Experiment 4 / deep iteration | Can we push further with extra build time? |
+| 12 | **Measure** | Final Measurement | What story does our data tell? (product frozen, collect pitch data) |
 
 ---
 
@@ -171,16 +180,22 @@ Teams run structured experiments throughout the course:
 
 ### SPRING BREAK (Mar 16-20)
 
-### Weeks 9-10: Iterate + Scale
+### Weeks 9-10: Iterate
 - **c16w9** (Mar 24): Post-break check-in. Plan experiment 3 (single class due to holiday)
 - **c17w10** (Mar 31): Run experiment 3
-- **c18w10** (Apr 2): Analyze results. **Feature freeze**
+- **c18w10** (Apr 2): Analyze experiment 3 results, iterate
 
-### Week 11: Measure + Narrative
-- **c19w11** (Apr 7): Final measurement round — product is frozen, collect usage data, quotes, metrics for pitch
-- **c20w11** (Apr 9): Build pitch narrative from experiment results
+### Week 11: Scale
+- **c19w11** (Apr 7): Iteration sprint / experiment 4 — extra build time to go deeper
+- **c20w11** (Apr 9): Analyze results. **Feature freeze**
 
-### Weeks 12-13: Ship
-- **c21w12** (Apr 14): Build presentations
-- **c22w12** (Apr 16): Pitch practice
-- **c23w13** (Apr 21): **Demo Day**
+### Week 12: Measure + Narrative
+- **c21w12** (Apr 14): Final measurement round — product is frozen, collect usage data, quotes, metrics for pitch
+- **c22w12** (Apr 16): Build pitch narrative from experiment results
+
+### Weeks 13-15 + Finals: Ship
+- **c23w13** (Apr 21): Build presentations
+- **c24w13** (Apr 23): Pitch workshop — peer feedback round 1
+- **c25w14** (Apr 28): Pitch practice — peer feedback round 2
+- **c26w14** (Apr 30): Dress rehearsal + final prep
+- **c27** (~May 12): **DEMO DAY** (Finals period, date/venue TBD)
