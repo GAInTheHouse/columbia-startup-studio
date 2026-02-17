@@ -6,7 +6,7 @@
 
 **Interviewer:** Shivangi  
 **Date:** 13 Feb 2026  
-**Interview #:** 1 of 3
+**Interview #:** 2 of 3
 
 ---
 
@@ -14,7 +14,7 @@
 
 | | |
 |---|---|
-| **Name / Description** | Diya, 23-year-old Columbia Econ student, finance background, low interest in fashion |
+| **Name / Description** | Diya, 23 year old Columbia Econ student, finance background, low interest in fashion |
 | **How you found them** |  Friend's friend |
 
 ---
