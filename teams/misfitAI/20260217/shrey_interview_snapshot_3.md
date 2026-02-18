@@ -86,3 +86,32 @@ resistant to automation.
 Users who intentionally simplify their wardrobe through defaults may
 resist AI styling because they value control and creativity over
 optimization.
+
+## Raw Notes
+Alessandro
+MSCS
+
+When I’m brushing my teeth
+I know what I’ve in my closet
+I would like to wear what I’m wearing for multiple occasions
+Sometimes outfit change for event
+
+Has this happened recently?
+30 sec decision in my brain
+I have a default that I will go back to
+
+Do you do something currently?
+I have default clothes
+~10 pairs of running shorts from Target – same
+Sometimes I wear my cargos too much
+Sometimes default pants
+
+Remembering which clothes to wash
+
+Personal stylist AI
+It would feel robotic to me
+On some times I like it to be a fun thing
+Wants to have agency
+Add creativity
+
+Any other ppl to interview? N/a
