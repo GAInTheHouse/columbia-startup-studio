@@ -1,6 +1,6 @@
 **Interviewer:** Arjun & Geonsik    
 **Date:** Feb 15, 2026  
-**Interview #:** 2 of 8 
+**Interview #:** 2 of 10 
 
 ---
 
