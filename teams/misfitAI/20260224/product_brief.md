@@ -1,3 +1,40 @@
+# Wardrobe Planner – Product Brief
+
+**Date:** 2026-02-24  
+**Team:** misfitAI  
+
+---
+
+## 1. What we’re building
+
+**Working name:** Wardrobe Planner  
+
+Wardrobe Planner is an “outfit autopilot” that turns your **calendar, weather, and actual closet** into a small set of ready‑to‑wear outfit suggestions each day. It connects to your Google Calendar, checks the forecast, and uses a lightweight understanding of what you own and how you like to dress to propose one or two outfits that “just make sense” for your real day.
+
+---
+
+## 2. Who it’s for
+
+Primary segments (our ICP, from V5–V6 synthetic testing):
+
+- **Vibe Coder Victor** – Tech / knowledge workers who default to hoodies and jeans, want to look a bit more intentional at work without becoming “fashion people.”  
+- **Resident Rachel** – Residents / essential workers who live in scrubs or uniforms and want their off‑duty outfits to feel like a functional, adult version of themselves with almost no effort.  
+- **Recently Promoted Priya** – Newly promoted managers and directors whose wardrobe hasn’t caught up to their title and who want to look like their role without hiring a stylist.  
+- **Hybrid Office Owen** – Hybrid workers who bounce between WFH, office days, and after‑work events and never feel like their clothes match the day.  
+- **Light‑Touch Styler Sam** – People who don’t care about fashion as identity but care about not looking sloppy; they want “bare minimum good enough” outfits.
+
+Across these segments, our best‑fit customers:
+
+- Work in **knowledge‑work or professional** contexts where presentation matters but strict suits aren’t required.  
+- Have **“real” mid‑range closets** (not capsule wardrobes, not high fashion) and feel like they’re under‑using what they own.  
+- Feel **decision fatigue in the morning** and low‑grade anxiety about whether their outfit is appropriate for the day’s mix of meetings, commutes, and social plans.
+
+We explicitly **exclude** segments like “Design Student Dana” and “Socialite Sophia” whose real problem is style identity / high‑stakes event dressing; Wardrobe Planner is built for everyday functional dressing, not statement looks.
+
+---
+
+## 3. Problem
+
 # Product Brief – Wardrobe Planner (Calendar + Weather)
 
 **Team Name:** MisFits AI  
