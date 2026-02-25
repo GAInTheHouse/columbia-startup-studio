@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wardrobe Planner – Product Brief
 
 **Date:** 2026-02-24  
@@ -35,6 +36,8 @@ We explicitly **exclude** segments like “Design Student Dana” and “Sociali
 
 ## 3. Problem
 
+=======
+>>>>>>> origin/main
 # Product Brief – Wardrobe Planner (Calendar + Weather)
 
 **Team Name:** MisFits AI  
