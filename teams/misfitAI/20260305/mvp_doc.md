@@ -1,12 +1,14 @@
 # misfitAI – MVP Doc (Real-Data Barebones MVP)
 
+**Product direction:** We’re building a **mobile app** (not web-only). MVP client is a mobile app (e.g. React Native/Expo); backend is shared.
+
 ## Core flow — user → action → value
 
 **User:** Busy student/young professional who wants low‑friction outfit planning for the week.
 
 **Core flow (MVP demo):**
 
-1. User opens the web app (auto‑assigned demo `user_id`).
+1. User opens the mobile app (auto‑assigned demo `user_id`).
 2. User goes to **Wardrobe** and:
    - Sees garments loaded from the backend wardrobe store for that `user_id`.
    - Adds 1–3 new garments via a simple form (name, category, color, formality), which creates real `GarmentItem`s in the backend in‑memory store.
@@ -28,9 +30,9 @@
 
 ## Tech stack — what we’re building with
 
-- **Client (web app):**
-  - React + TypeScript Vite SPA in `frontend`.
-  - API client module (`src/api.ts`) wrapping `fetch` with typed responses.
+- **Client (mobile app):**
+  - React Native + TypeScript (Expo) in `frontend` (or equivalent mobile stack the team chooses).
+  - API client module wrapping `fetch` with typed responses.
   - State managed via existing `AppStateContext` plus new wardrobe/events/recommendation hooks.
 
 - **Backend (services):**
@@ -57,9 +59,9 @@
   - This stays off the critical path so the MVP can function purely with manual garment add.
 
 - **Dev workflow:**
-  - Local dev: FastAPI on `http://localhost:8000`, Vite on `http://localhost:5173`.
-  - CORS open to the frontend origin.
-  - Git with feature branches + CLAUDE.md per class instructions.[file:26]
+  - Local dev: FastAPI on `http://localhost:8000`; mobile app via Expo dev server (or Simulator/emulator).
+  - CORS open to the app origin (Expo / localhost as needed).
+  - Git with feature branches + CLAUDE.md per class instructions.
 
 ---
 
@@ -67,8 +69,8 @@
 
 Using your team split:
 
-- **Frontend (web app) – Shrey & Meona**
-  - Implement `src/api.ts` with:
+- **Frontend (mobile app) – Shrey & Meona**
+  - Implement API client with:
     - `getWardrobe(userId)`, `addGarment(userId, payload)`.
     - `saveWeekEvents(userId, events)`, `getWeekEvents(userId)`.
     - `getRecommendations(userId, events)`.
@@ -112,6 +114,7 @@ Using your team split:
       - Select garments by category/formality; if no perfect match, fall back gracefully.
       - Generate explanation template (“For your Monday work meeting, we picked a formal shirt and pants from your wardrobe to keep it polished but simple.”).
     - Output: `{ recommendations: [ { day, event_type, top_id, bottom_id, top_name, bottom_name, explanation }... ] }`.
+  - MVP assumes tops + bottoms only; dresses/one-pieces are out of scope.
   - Keep payload small; return ids/names, not full nested objects.
 
 - **Demand gen – Meona (primary) with support from others**
