@@ -1,6 +1,6 @@
 ## Task Priority Table
 
-The Table below shows
+The Table below shows tasks for the Misfit team in order of priority. We found the RICE score perfectly shapes what we think is most important for us. One task will be deprioritized and can be picked up if we complete everything on time.
 
 
 |     | Issue name                                              | Brief description                                                                                  | Reach (1–5) | Impact (1–5) | Confidence (1–5) | Effort (1–5) | RICE score | Planned week   | Estimated duration      |
