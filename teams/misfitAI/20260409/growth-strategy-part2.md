@@ -194,4 +194,13 @@ A channel is working if:
 - Inbound interest increases
 
 ---
+# 5. Results + Next Steps 
+
+- Waitlist signups from Instagram posts (~25) worked well
+- Two user interviews -> helped spread word within circles outside of New York
+- It did not work to repost IG story, didn't change numbers as much
+- Moving towards LinkedIn soon as next steps once the product is in a good enough shape to publicize.
+- LinkedIn may drive most of the usage, but can also fail if product onboarding isn't at its best.
+
+
 
