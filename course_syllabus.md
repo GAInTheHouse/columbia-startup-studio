@@ -12,7 +12,7 @@
 
 ## Course Summary
 
-Startup Studio is a hands-on course that immerses students in the full cycle of technology entrepreneurship: from concept development to AI-assisted product building to real-world validation. Student teams will form startups, create products using modern AI coding and design tools, and engage real users through demand validation techniques such as paid advertising and UX interviews. Students will learn to develop minimal viable products (MVPs), run growth experiments, and iterate based on real user feedback.
+Startup Studio is a hands-on course that immerses students in the full cycle of technology entrepreneurship: from concept development to AI-assisted product building to real-world validation. Student teams will form startups, create products using modern AI coding and design tools, and engage real users through demand validation and UX interviews. Students will learn to develop minimal viable products (MVPs), run growth experiments, and iterate based on real user feedback.
 
 ### Key Differentiators
 - **Concept testing** through Wizard of Oz testing and vaporware site launches
@@ -96,15 +96,6 @@ By the end of the course, students will:
 - **Site Shutdown or Continuation:** Teams will decide post-semester whether to shut down their products/sites or continue development independently
 
 > **Note:** This course is not an incubator, and Columbia University does not claim ownership of student-developed IP unless university-owned technologies are involved.
-
-## Budget
-
-Each team will need a modest budget for:
-
-- **Ad Spend (Week 4):** $100/team for demand validation
-- **User Incentives (Week 9):** $100/team for participant compensation during user interviews
-
-**Total budget per team:** $200
 
 ## Additional Notes
 
