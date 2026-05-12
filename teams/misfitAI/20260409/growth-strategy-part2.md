@@ -202,5 +202,41 @@ A channel is working if:
 - Moving towards LinkedIn soon as next steps once the product is in a good enough shape to publicize.
 - LinkedIn may drive most of the usage, but can also fail if product onboarding isn't at its best.
 
+---
 
+# 6. Cold Start Strategy
+
+## 1. Cold Start Type
+
+Our cold start type is primarily **AI/Algorithm** with a secondary **Content/Supply** problem.
+
+The product becomes more valuable when it has enough user wardrobe data, preferences, and feedback to generate recommendations that feel personal. At the same time, users need an initial wardrobe/profile setup before the product can show the "aha" moment, so we need to solve the empty-closet problem quickly.
+
+## 2. Hard Side
+
+Our hard side is not "college students" broadly. It is the first small group of people who will tolerate setup friction and give us dense feedback:
+
+- 8-12 Columbia students and recent grads who already care about outfits for class, internships, dinners, and NYC social plans.
+- Past interview participants who specifically complained about default outfits, not knowing what is in their wardrobe, or needing help matching clothes to context.
+- 3-5 NYC friends or acquaintances who post outfits/GRWM/lifestyle content and are willing to let us use their wardrobe setup as example content.
+
+These people are hard because they need to upload or describe enough wardrobe information for the app to work, and they need to give honest feedback on whether recommendations are actually useful.
+
+## 3. Two Strategies
+
+**Primary strategy: Concierge / Wizard-of-Oz onboarding.**  
+We manually help the first users create their wardrobe, clean up their item labels, and generate a first useful outfit plan. The goal is to get users to value quickly, even if the backend is not fully automated yet.
+
+**Secondary strategy: Narrow density in one community.**  
+We focus on a tight Columbia/NYC student cluster instead of broad social posting. The product is easier to explain when users share similar contexts: class, internships, commuting, dinners, weather, and campus/social events.
+
+## 4. What We Can Do This Week
+
+**Concierge action this week:**  
+Run 5 setup sessions with Columbia/NYC users. For each person, help them add 10-15 wardrobe items, create one upcoming day or week of events, and generate outfit recommendations. Capture what confused them and whether they would reuse the app without our help.
+
+**Density action this week:**  
+Recruit from one dense group instead of scattered audiences: Columbia friends-of-friends, classmates, and interview referrals. Ask each successful tester to refer one person with a similar schedule/wardrobe problem.
+
+Success this week means at least 5 users complete wardrobe setup and generate one recommendation, and at least 2 of them say they would use it again for a real day.
 
